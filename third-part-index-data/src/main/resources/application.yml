@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: third-part-index-data
+eureka:
+  client:
+    service-url:
+      default-zone: http://localhost:8761/erueka/
