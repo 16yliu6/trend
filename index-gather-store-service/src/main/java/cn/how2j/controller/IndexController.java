@@ -21,5 +21,5 @@ public class IndexController {
 
     public String remove() {
         return "ok";
-    }
+    }ll
 }
